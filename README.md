@@ -1,1 +1,2 @@
 Vrinda-Store-Annual-report
+created the **Annual Report for Vrindra Store 2024** using **Excel**, leveraging my skills in **Data Cleaning, Processing, Analysis, and Visualization**. This report provides key insights into sales trends, financial performance, and operational efficiency, transforming raw data into actionable intelligence through interactive dashboards and visualizations. It’s been a great experience turning data into meaningful business decisions.
